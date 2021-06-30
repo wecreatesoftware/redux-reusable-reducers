@@ -51,7 +51,7 @@
         "esdoc": "1.1.0",
         "esdoc-ecmascript-proposal-plugin": "1.0.0",
         "esdoc-standard-plugin": "1.0.0",
-        "jest": "26.6.3",
+        "jest": "27.0.6",
         "npm-check-updates": "11.3.0",
         "rimraf": "3.0.2",
         "rollup": "2.43.1",
